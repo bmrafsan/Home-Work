@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.nav {
+    background-color: rgb(67, 97, 230);
+    padding: 20px 100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+.menu a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(253, 253, 253);
+    font: size 17px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-right: 30px;
+}
+.backgraund {
+    background-color: blueviolet;
+    color: rgb(237, 245, 245);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding:  150px;
+
+}
+.hero-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+.botom {
+    background-color: aliceblue;
+    padding: 15PX 40PX;
+    text-decoration: none;
+    text-align: center;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    border-radius: 0px;
+    border: 3px solid rgb(255, 255, 255);
+}
+.botom:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    color: rgb(247, 248, 255);
+    border-radius: 50px;
+}
+.main{
+    margin-left: 100px;
+}
+ 
+.box {
+    display: block;
+    float:left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+
+}
+.img{
+    width: 100%;
+}
